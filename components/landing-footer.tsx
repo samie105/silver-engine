@@ -20,18 +20,19 @@ export function LandingFooter() {
             </p>
             <div className="flex items-center gap-2 text-gray-300 mb-2">
               <Phone className="h-4 w-4" />
-              <span>+1 305 407 0276</span>
+              <span>+1 603-200-9573
+              </span>
             </div>
             <div className="flex items-center gap-2 text-gray-300 mb-2">
               <Mail className="h-4 w-4" />
-              <span>invest@currentcapital.com</span>
+              <span>team@currentcapitalinvestors.com</span>
             </div>
             <div className="flex items-start gap-2 text-gray-300">
               <MapPin className="h-4 w-4 mt-1" />
               <span>
-                18851 NE 29th Ave Suite 1000
+              4000 Hollywood Boulevard, #765-S
                 <br />
-                Aventura, FL 33180
+                Hollywood,FL 33021
               </span>
             </div>
           </div>
@@ -82,7 +83,7 @@ export function LandingFooter() {
                 className="w-full h-full"
               ></iframe>
             </div>
-            <p className="text-gray-300 mt-2 text-sm">18851 NE 29th Ave Suite 1000, Aventura, FL 33180</p>
+            <p className="text-gray-300 mt-2 text-sm">4000 Hollywood Boulevard, #765-S, Hollywood,FL 33021</p>
           </div>
         </div>
 

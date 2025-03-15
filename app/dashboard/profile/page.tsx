@@ -125,14 +125,7 @@ export default function ProfilePage() {
                 <div className="text-sm text-muted-foreground">Email</div>
                 <div>{userData?.email || "Mailcapers@gmail.com"}</div>
               </div>
-              <div className="grid grid-cols-[120px_1fr] items-center gap-4">
-                <div className="text-sm text-muted-foreground">Address</div>
-                <div>--</div>
-              </div>
-              <div className="grid grid-cols-[120px_1fr] items-center gap-4">
-                <div className="text-sm text-muted-foreground">FinCEN ID</div>
-                <div>--</div>
-              </div>
+             
             </div>
           </CardContent>
         </Card>

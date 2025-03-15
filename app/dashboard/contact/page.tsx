@@ -85,8 +85,8 @@ export default function ContactPage() {
                   <MapPin className="mt-0.5 h-5 w-5 flex-shrink-0 text-primary" />
                   <div>
                     <p className="font-medium">Mailing Address</p>
-                    <p className="text-muted-foreground">18851 NE 29th Ave Suite 1000</p>
-                    <p className="text-muted-foreground">Aventura, FL 33180</p>
+                    <p className="text-muted-foreground">4000 Hollywood Boulevard, #765-S</p>
+                    <p className="text-muted-foreground"> Hollywood,FL 33021</p>
                   </div>
                 </div>
               </CardContent>

@@ -45,8 +45,8 @@ export function SiteFooter() {
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 flex-shrink-0" />
-                <a href="tel:+19547805479" className="hover:underline">
-                  +1 (954) 780-5479
+                <a href="tel:+16032009573" className="hover:underline">
+                  +1 (603)-200-9573
                 </a>
               </div>
             </div>
